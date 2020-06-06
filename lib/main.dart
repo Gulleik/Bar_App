@@ -3,6 +3,11 @@ import 'package:winwheel/winwheel.dart';
 import 'dart:math' as math;
 
 
+//TODO fjerne add og remove
+//TODO lage popup side
+//TODO lage preset liste
+//TODO lage en bar klasse som inneholder navn, index osv
+
 void main() => runApp(BarApp());
 
 class BarApp extends StatelessWidget {
