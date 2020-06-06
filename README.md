@@ -1,16 +1,16 @@
-# bar_app
+# Bar App
 
-A summer project by Gulleik, Stian and Oivind
+This Project has been developed by:
+```
+Gulleik L Olsen         gulleik@hotmail.com      Software Engineer @ Gutta Development
+Stian M Jacobsen        Stole69@gmail.com        Software Engineer @ Gutta Development
+Øyvind R Lunde          oylunrl@gmail.com        Software Engineer @ Gutta Development
+```
 
-## Getting Started
+## Project description
+**A multi-OS app for finding a random bar/nightclub in your vicinity**  
+This application is built in flutter as a project during the summer of 2020. It runs on both android and IOS.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+**Prerequisites for running the program**
+- flutter
