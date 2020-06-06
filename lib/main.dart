@@ -53,7 +53,6 @@ class _MyHomePageState extends State<MyHomePage> {
           Expanded(
             //TODO ligg på et bilde av en pil eller noe som viser hvilket segment som har vunnet
               child: Container(
-                color: Colors.lightBlueAccent,
                 child: Center(
                   child: Winwheel(
                     handleCallback: ((handler) {
